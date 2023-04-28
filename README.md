@@ -18,7 +18,13 @@ Here are some ideas to get you started:
   <img src = "https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width = "100" />
  </>
 <div id = "badges">
-  <a href = <"https://www.linkedin.com/in/antoinettejaycox/">
+  <a href = "https://www.linkedin.com/in/antoinettejaycox/">
    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
    </a>
+   <a href = "https://komarev.com/ghpvc/?username=iGrokandGrow"/>
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   </a>
 </div>
+
+<div id = "counter">
+  
